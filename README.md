@@ -3,6 +3,8 @@
 
 这是一个使用Server-Sent Events (SSE)技术实现的实时订单通知系统示例项目。项目展示了如何使用SpringBoot和React构建一个基于SSE的实时通信应用。
 
+关于sse介绍请参考 [SSE技术介绍](docs/SSE技术介绍.md)
+
 ## 技术栈
 
 ### 后端
