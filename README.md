@@ -3,7 +3,11 @@
 
 这是一个使用Server-Sent Events (SSE)技术实现的实时订单通知系统示例项目。项目展示了如何使用SpringBoot和React构建一个基于SSE的实时通信应用。
 
-关于sse介绍请参考 [SSE技术介绍](docs/SSE技术介绍.md)
+
+## 文档
+
+详细的技术文档请参考 [SSE技术介绍](docs/SSE技术介绍.md)
+
 
 ## 技术栈
 
@@ -94,10 +98,6 @@ npm start
 - `OrderNotification`: React组件，处理SSE连接和消息展示
 - 心跳检测机制确保连接可靠性
 - 使用Ant Design组件优化用户界面
-
-## 文档
-
-详细的技术文档请参考 [SSE技术介绍](docs/SSE技术介绍.md)
 
 ## 注意事项
 
